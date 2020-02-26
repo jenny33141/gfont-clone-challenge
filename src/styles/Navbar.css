@@ -1,4 +1,4 @@
-.nav-box{
+.nav-box {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -7,11 +7,11 @@
   width: 175px;
   border-radius: 20px;
   position: relative;
-  border-width: 1px ;
-  border-color: #D5D7DB;
+  border-width: 1px;
+  border-color: #d5d7db;
 }
 
-input{
+input {
   display: flex;
   text-align: center;
   position: absolute;
@@ -20,7 +20,7 @@ input{
   outline: none;
 }
 
-.search{
+.search {
   height: auto;
   width: 20px;
   z-index: 1;
