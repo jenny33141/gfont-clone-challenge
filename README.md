@@ -1,8 +1,12 @@
-This project is a bug fixing/feature addition challenge for Code Nation students.
+A Google Fonts clone created with Matt Edge and Ga-Ming Chan
+Worked on issues and fixed bugs.
+Bugs fixed -
+changed all fonts simultaneously
+navbar added with working search bar
+displayed 12 fonts instead of 10
+created pop up with font family info
 
-## Click on the issues tab at the top of this repo to see current issues
-
-Students will need to fork this repo and clone it to their machine.
+## Google Fonts clone bug-fix with Ga-Ming Chan and Matt Edge
 
 Starting state:
 
