@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/gfont-clone-challenge/static/css/main.2b1b77d2.chunk.css",
-    "main.js": "/gfont-clone-challenge/static/js/main.dea668d7.chunk.js",
-    "main.js.map": "/gfont-clone-challenge/static/js/main.dea668d7.chunk.js.map",
+    "main.css": "/gfont-clone-challenge/static/css/main.bd90a7a4.chunk.css",
+    "main.js": "/gfont-clone-challenge/static/js/main.b4b953ed.chunk.js",
+    "main.js.map": "/gfont-clone-challenge/static/js/main.b4b953ed.chunk.js.map",
     "runtime-main.js": "/gfont-clone-challenge/static/js/runtime-main.766beadf.js",
     "runtime-main.js.map": "/gfont-clone-challenge/static/js/runtime-main.766beadf.js.map",
-    "static/js/2.c33bf1e9.chunk.js": "/gfont-clone-challenge/static/js/2.c33bf1e9.chunk.js",
-    "static/js/2.c33bf1e9.chunk.js.map": "/gfont-clone-challenge/static/js/2.c33bf1e9.chunk.js.map",
+    "static/js/2.46c95301.chunk.js": "/gfont-clone-challenge/static/js/2.46c95301.chunk.js",
+    "static/js/2.46c95301.chunk.js.map": "/gfont-clone-challenge/static/js/2.46c95301.chunk.js.map",
     "index.html": "/gfont-clone-challenge/index.html",
-    "precache-manifest.979cb681bef4c635895e3d40c74a815d.js": "/gfont-clone-challenge/precache-manifest.979cb681bef4c635895e3d40c74a815d.js",
+    "precache-manifest.0869c6de412fc602f9722813c59fff72.js": "/gfont-clone-challenge/precache-manifest.0869c6de412fc602f9722813c59fff72.js",
     "service-worker.js": "/gfont-clone-challenge/service-worker.js",
-    "static/css/main.2b1b77d2.chunk.css.map": "/gfont-clone-challenge/static/css/main.2b1b77d2.chunk.css.map",
-    "static/js/2.c33bf1e9.chunk.js.LICENSE.txt": "/gfont-clone-challenge/static/js/2.c33bf1e9.chunk.js.LICENSE.txt",
-    "static/media/plus.ace77d1b.svg": "/gfont-clone-challenge/static/media/plus.ace77d1b.svg"
+    "static/css/main.bd90a7a4.chunk.css.map": "/gfont-clone-challenge/static/css/main.bd90a7a4.chunk.css.map",
+    "static/js/2.46c95301.chunk.js.LICENSE.txt": "/gfont-clone-challenge/static/js/2.46c95301.chunk.js.LICENSE.txt",
+    "static/media/plus.ace77d1b.svg": "/gfont-clone-challenge/static/media/plus.ace77d1b.svg",
+    "static/media/searchIcon.png": "/gfont-clone-challenge/static/media/searchIcon.744cf00f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.766beadf.js",
-    "static/js/2.c33bf1e9.chunk.js",
-    "static/css/main.2b1b77d2.chunk.css",
-    "static/js/main.dea668d7.chunk.js"
+    "static/js/2.46c95301.chunk.js",
+    "static/css/main.bd90a7a4.chunk.css",
+    "static/js/main.b4b953ed.chunk.js"
   ]
 }

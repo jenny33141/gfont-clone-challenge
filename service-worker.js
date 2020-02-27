@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gfont-clone-challenge/precache-manifest.979cb681bef4c635895e3d40c74a815d.js"
+  "/gfont-clone-challenge/precache-manifest.0869c6de412fc602f9722813c59fff72.js"
 );
 
 self.addEventListener('message', (event) => {
